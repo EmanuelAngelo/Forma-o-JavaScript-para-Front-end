@@ -11,7 +11,9 @@ Olá! Boas-vindas ao curso JavaScript: manipulando o DOM! Eu sou o Pedro Marins 
 | :fire: Desafio     | https://url-do-desafio.com.br
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://via.placeholder.com/1200x500.png?text=imagem+lindona+do+meu+projeto#vitrinedev)
+<!-- ![](https://via.placeholder.com/1200x500.png?text=imagem+lindona+do+meu+projeto) -->
+![image](https://user-images.githubusercontent.com/23459929/217919873-01661a1a-4068-4255-b411-6ec0eaf28a9d.png#vitrinedev)
+
 
 ## Detalhes do projeto
 
