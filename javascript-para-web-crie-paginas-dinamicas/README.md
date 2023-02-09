@@ -12,6 +12,8 @@ O Alura Midi é um instrumento musical de interface digital, onde a cada botão 
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
 <!-- ![](https://via.placeholder.com/1200x500.png?text=imagem+lindona+do+meu+projeto#vitrinedev) -->
+![image](https://user-images.githubusercontent.com/23459929/217922120-35a208f6-34b3-444f-ac02-a3d9898da0b2.png#vitrinedev)
+
 
 ## Detalhes do projeto
 
