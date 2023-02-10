@@ -9,7 +9,7 @@ Antes de mergulhar em seus estudos é importante que você tenha conhecimentos b
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
-| :sparkles: Nome        | **JavaScript: manipulando o DOM**
+| :sparkles: Nome        | **Formação JavaScript para Front-end**
 | :label: Tecnologias | html, css, javascript
 | :rocket: URL         | https://url-deploy.com.br
 | :fire: Desafio     | https://url-do-desafio.com.br
