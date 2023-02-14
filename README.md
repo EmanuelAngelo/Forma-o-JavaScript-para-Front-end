@@ -9,15 +9,13 @@ Antes de mergulhar em seus estudos é importante que você tenha conhecimentos b
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
-| :sparkles: Nome        | **Formação JavaScript para Front-end**
+| :sparkles: Nome     | **Formação JavaScript para Front-end**
 | :label: Tecnologias | html, css, javascript
-| :rocket: URL         | https://url-deploy.com.br
-| :fire: Desafio     | https://url-do-desafio.com.br
+| :rocket: Robotron   | https://robotron200-theta.vercel.app/
+| :fire: Desafio      | https://url-do-desafio.com.br
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
 <!-- ![](https://via.placeholder.com/1200x500.png?text=imagem+lindona+do+meu+projeto#vitrinedev) -->
-![image](https://user-images.githubusercontent.com/23459929/217919873-01661a1a-4068-4255-b411-6ec0eaf28a9d.png#vitrinedev)
-
 
 ## Detalhes do projeto
 
