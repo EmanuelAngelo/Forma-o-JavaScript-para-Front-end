@@ -12,7 +12,7 @@ Antes de mergulhar em seus estudos é importante que você tenha conhecimentos b
 | :sparkles: Nome     | **Formação JavaScript para Front-end**
 | :label: Tecnologias | html, css, javascript
 | :rocket: Robotron   | https://robotron200-theta.vercel.app/
-| :fire: Desafio      | https://url-do-desafio.com.br
+| :fire: Bateria      | https://alura-mid-bateria.vercel.app/
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
 <!-- ![](https://via.placeholder.com/1200x500.png?text=imagem+lindona+do+meu+projeto#vitrinedev) -->
