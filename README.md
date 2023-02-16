@@ -11,8 +11,8 @@ Antes de mergulhar em seus estudos é importante que você tenha conhecimentos b
 | -------------  | --- |
 | :sparkles: Nome     | **Formação JavaScript para Front-end**
 | :label: Tecnologias | html, css, javascript
-| :rocket: Robotron   | https://robotron200-theta.vercel.app/
-| :fire: Bateria      | https://alura-mid-bateria.vercel.app/
+| :rocket: Robotron   | https://alura-robotron200.vercel.app/
+| :fire: Bateria      | https://alura-mind-bateria.vercel.app/
 | 🎒 Mochila de viagem | https://mochila-de-viagem-nine-weld.vercel.app/
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
