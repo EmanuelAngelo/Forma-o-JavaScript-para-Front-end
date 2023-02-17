@@ -39,3 +39,9 @@ function chuteInvalido(numero) {
 function numeroMaiorMenor(numero) {
     return numero > maiorValor || numero < menorValor
 }
+
+document.body.addEventListener('click', elemento => {
+    if (elemento.target.id == 'jogar-navamente') {
+        window.location.reload()
+    }
+})
