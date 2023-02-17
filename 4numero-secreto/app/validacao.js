@@ -17,7 +17,7 @@ function verificarValorFalado(chute) {
         document.body.innerHTML = ` 
             <h2> Você acertou! </h2>
             <h3> O número secreto era: ${numeroSecreto} </h3>
-            <button id="jogar-novamente" class="btn-jogar">Jogar novamente</button> 
+            <button id="jogar-novamente" class="btn-jogar">Jogar novamente </button> 
         `
     } else if (numero > numeroSecreto) {
         elementoChute.innerHTML += `
@@ -40,8 +40,8 @@ function numeroMaiorMenor(numero) {
     return numero > maiorValor || numero < menorValor
 }
 
-document.body.addEventListener('click', elemento => {
-    if (elemento.target.id == 'jogar-navamente') {
+document.body.addEventListener('click', evento => {
+    if (evento.target.id == 'jogar-navamente') {
         window.location.reload()
     }
 })
