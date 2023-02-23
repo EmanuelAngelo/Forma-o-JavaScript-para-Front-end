@@ -15,6 +15,7 @@ Antes de mergulhar em seus estudos é importante que você tenha conhecimentos b
 | :fire: Bateria      | https://alura-mind-bateria.vercel.app/
 | 🎒 Mochila de viagem | https://mochila-de-viagem-nine-weld.vercel.app/
 | 🔢 Adivinhar numero | https:// nao possui atingiu limite do vercel rsrs
+| 🔭 Formulario CEP   | https:// nao possui atingiu limite do vercel rsrs
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
 <!-- ![](https://via.placeholder.com/1200x500.png?text=imagem+lindona+do+meu+projeto#vitrinedev) -->
