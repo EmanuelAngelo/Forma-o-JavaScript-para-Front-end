@@ -17,6 +17,7 @@ Antes de mergulhar em seus estudos é importante que você tenha conhecimentos b
 | 🔢 Adivinhar numero | https:// nao possui atingiu limite do vercel rsrs, codigo no repositorio
 | 🔭 Formulario CEP   | https:// nao possui atingiu limite do vercel rsrs, codigo no repositorio
 | 📚 AluraBook        | https:// nao possui atingiu limite do vercel rsrs, codigo no repositorio
+| 🔌 AluraPlay        | https:// nao possui atingiu limite do vercel rsrs, codigo no repositorio
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
 <!-- ![](https://via.placeholder.com/1200x500.png?text=imagem+lindona+do+meu+projeto#vitrinedev) -->
