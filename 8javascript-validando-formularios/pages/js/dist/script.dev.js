@@ -6,7 +6,20 @@ var _validaIdade = _interopRequireDefault(require("./valida-idade"));
 
 function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { "default": obj }; }
 
+var formulario = document.querySelector("[data-formulario]");
 var camposDoFormulario = document.querySelectorAll("[required]");
+formulario.addEventListener("submit", function (e) {
+  e.preventDefault();
+  var listaRespostas = {
+    "nome": e.target.elements["nome"].value,
+    "email": e.target.elements["email"].value,
+    "rg": e.target.elements["rg"].value,
+    "cpf": e.target.elements["cpf"].value,
+    "aniversario": e.target.elements["aniversario"].value
+  };
+  localStorage.setItem("cadastro", JSON.stringify(listaRespostas));
+  window.location.href = './abrir-conta-form-2.html';
+});
 camposDoFormulario.forEach(function (campo) {
   campo.addEventListener("blur", function () {
     return verificaCampo(campo);
