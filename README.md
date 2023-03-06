@@ -46,5 +46,5 @@ Requisições e formulários
 Agora, no terceiro passo da formação Javascript para Front-end, chegou a hora de avançarmos no conhecimento sobre a interação do usuário com o projeto. Você se aprofundará no consumo de dados externos de APIs com fetch API, construindo requisições do tipo GET para obter informações e requisições do tipo POST para salvar informações externamente.
 
 Além disso, é essencial saber lidar com a interação do usuário, por exemplo, em formulários. Para isso, você verá como prevenir erros de preenchimento com condicionais, atributos de validação do elemento input e comunicará o usuário através do Validity State.
-| -------------   |
+----
 | 🎓 Certificado  | https://cursos.alura.com.br/user/emanuelangelo/degree-javascript-front-end-374365/certificate
